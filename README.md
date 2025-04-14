@@ -1,7 +1,6 @@
 - 👋 Hi, I’m oreoluwa
 - 🌱 I am currently exploring opensource ✨
-- 
--.
+
 
 <!---
 oree-xx/oree-xx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
