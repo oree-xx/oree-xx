@@ -1,5 +1,6 @@
 - 👋 Hi, I’m oreoluwa
 - 🌱 I am currently exploring opensource ✨
+- I am a data analyst and looking to drive business insights with data
 
 
 <!---
